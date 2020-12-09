@@ -34,19 +34,15 @@ $delimeterArray = array (',',';','|','  ');
 
 // GET THE HEADER ROW
 $headerString = new Wren\CSV\header( $csvFilePath.$csvFileName );
-//echo $headerString->getHeader();
 
 // GET THE DELIM FROM THE HEADER ROW
 $csvDelimeter = new Wren\CSV\delimeter( $headerString->getHeader(),$delimeterArray );
-//echo $csvDelimeter->getDelimeter();
 
 // POPULATE THE HEADER ARRAY
 $headerString->setHeaderArray( $csvDelimeter->getDelimeter() );
-//echo $headerString->getHeaderArrayItem(0);
 
 // GET THE COLUMN COUNT
 $columnCount = new Wren\CSV\columnCount( $csvDelimeter->getDelimeter(),$headerString->getHeader() );
-//echo $columnCount->getcolumnCount();
 
 // create a goodrows object
 $good_rows = new Wren\CSV\goodRows;
@@ -158,13 +154,9 @@ foreach ( $good_rows->getGoodRows() as $row) {
 }
 
 foreach ( $bad_rows->getBadRows() as $row) {
-
   $error = $row[6];
-
   array_pop($row);
-
   echo date( "Y-m-d H:i:s" )." ERROR ==> ".$error." ==> ".implode( ",", $row )."\n";
-
 }
 
 echo date( "Y-m-d H:i:s" )." ==> END OF PROCESS\n";
