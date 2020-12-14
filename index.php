@@ -55,7 +55,7 @@ $csvDelimeter = new Wren\CSV\delimeter( $headerString->getHeader(),$delimeterArr
 $headerString->setHeaderArray( $csvDelimeter->getDelimeter() );
 
 // NOTE: Create a $columnCount object to get the column count
-$columnCount = new Wren\CSV\columnCount( $csvDelimeter->getDelimeter(),$headerString->getHeader() );
+$columnCount = new Wren\CSV\columnCount( $csvDelimeter->getDelimeter(), $headerString->getHeader() );
 
 // NOTE: Create a $good_rows object for use later
 $good_rows = new Wren\CSV\goodRows;

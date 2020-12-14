@@ -43,9 +43,9 @@ class checkColumnValues implements checkColumnValuesInterface {
    */
   public function checkColumnData( array $row, int $rowColumnCount, int $columnCount ): bool {
     if( $rowColumnCount == $columnCount ) {
-      for ( $i=0; $i < $columnCount; $i++ ) {
-        if( empty( $csv[$i] ) ) {
-          if( $i == ( $columnCount-1 ) ) {
+      for ( $i=0; $i <= $columnCount; $i++ ) {
+        if( empty( $row[$i] ) ) {
+          if( $i == ( $columnCount ) ) {
             $isGood = true;
           } else {
             $isGood = false;

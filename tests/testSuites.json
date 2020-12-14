@@ -1,0 +1,44 @@
+{
+  "full": [{
+    "header": [{
+      "test": "getHeader"
+      },{
+      "test": "getHeaderArrayItem"
+      }],
+      "badRows" : [{
+        "test": "getBadRows"
+      }],
+      "goodRows" : [{
+        "test": "getGoodRows"
+      }],
+      "checkColumnValues" : [{
+        "test": "checkColumnData"
+      }],
+      "columnCount" : [{
+        "test": "getcolumnCount"
+      }],
+      "checkMaxPrice" : [{
+        "test": "checkItemMaxPrice"
+      }],
+      "checkStockPrice" : [{
+        "test": "checkItemStockPrice"
+      }],
+      "delimeter" : [{
+        "test": "getFileDelimeter"
+      },{
+        "test": "getDelimeter"
+      }],
+      "formatPrice" : [{
+        "test": "formatItemPrice"
+      }],
+      "rowColumnCount" : [{
+        "test": "getrowColumnCount"
+      }],
+      "sanitiseprice" : [{
+        "test": "sanitiseItemPrice"
+      }],
+      "testFlag" : [{
+        "test": "testFlag"
+      }]
+    }]
+}

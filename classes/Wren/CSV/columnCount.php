@@ -26,8 +26,8 @@ class columnCount implements columnCountInterface {
    * @param string $headerRow
    * @param string $delimeter
    */
-  function __construct( string $headerRow, string $delimeter ) {
-    $columns = explode( $headerRow, $delimeter );
+  function __construct( string $delimeter, string $headerRow ) {
+    $columns = explode( $delimeter, $headerRow );
     $this->ColCount = count( $columns );
   }
 
