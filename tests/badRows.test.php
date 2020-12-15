@@ -1,8 +1,20 @@
 <?php
+declare(strict_types = 1);
+declare(strict_types = 1);
+/**
+ * badRows.test
+ * @author Simon Bailey <webdisk@hotmail.com>
+ * @package Test
+ */
 
 USE Wren\CSV as test;
 
-// NOTE getBadRows Test
+/**
+ * getBadRows Test
+ * Passes in an array
+ * Pass if the first item matches the first item in the array passed in.
+ * @return string
+ */
 function getBadRows(): string {
   $bad_rows = new test\badRows;
   $row = array('item1','item2','item3','item4','item5','item6');

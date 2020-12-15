@@ -1,7 +1,20 @@
 <?php
+declare(strict_types = 1);
+
+/**
+ * header.test
+ * @author Simon Bailey <webdisk@hotmail.com>
+ * @package Test
+ */
 
 USE Wren\CSV as test;
 
+/**
+ * getHeader Test
+ * Passes in a CSV file
+ * PASS if return matches
+ * @return string
+ */
 function getHeader() {
   $csvFilePath  = __DIR__.'/csv/';
   $csvFileName  = "stock.csv";
@@ -14,7 +27,12 @@ function getHeader() {
   }
 }
 
-
+/**
+ * getHeaderArrayItem Test
+ * Passes in a CSV file
+ * PASS if return matches the item specified
+ * @return string
+ */
 function getHeaderArrayItem(){
   $delimeter = ",";
   $csvFilePath  = __DIR__.'/csv/';

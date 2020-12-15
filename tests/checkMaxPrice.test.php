@@ -1,8 +1,20 @@
 <?php
+declare(strict_types = 1);
+
+/**
+ * checkMaxPrice.test
+ * @author Simon Bailey <webdisk@hotmail.com>
+ * @package Test
+ */
 
 USE Wren\CSV as test;
 
-// NOTE checkItemMaxPrice Test
+/**
+ * checkItemMaxPrice Test
+ * Passes in an Itemvalue
+ * PASS if value passed in is greater than threshold.
+ * @return string
+ */
 function checkItemMaxPrice(): string {
   $itemValue = "1000.01";
   $thisRowMaxPriceCheck = new test\checkMaxPrice;

@@ -1,8 +1,20 @@
 <?php
+declare(strict_types = 1);
+
+/**
+ * columnCount.test
+ * @author Simon Bailey <webdisk@hotmail.com>
+ * @package Test
+ */
 
 USE Wren\CSV as test;
 
-// NOTE getcolumnCount Test
+/**
+ * getcolumnCount Test
+ * Passes in a string and delimeter that is exploded
+ * PASS if the count is the same as the items in the string
+ * @return string
+ */
 function getcolumnCount(): string {
   $csvDelimeter = ',';
   $headerString = 'item1,item2,item3,item4,item5,item6';

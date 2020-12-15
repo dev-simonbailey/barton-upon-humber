@@ -466,6 +466,76 @@ Search.appendIndex(
             "summary": "gettestFlag\u0020Interface\u0020Declaration",
             "url": "classes/Wren-CSV-testFlagInterface.html#method_gettestFlag"
         },                {
+            "fqsen": "\\getBadRows\u0028\u0029",
+            "name": "getBadRows",
+            "summary": "getBadRows\u0020Test\nPasses\u0020in\u0020an\u0020array\nPass\u0020if\u0020the\u0020first\u0020item\u0020matches\u0020the\u0020first\u0020item\u0020in\u0020the\u0020array\u0020passed\u0020in.",
+            "url": "namespaces/default.html#function_getBadRows"
+        },                {
+            "fqsen": "\\checkColumnData\u0028\u0029",
+            "name": "checkColumnData",
+            "summary": "checkColumnData\u0020Test\nPasses\u0020in\u0020an\u0020array,\u0020an\u0020array\u0020count\u0020and\u0020a\u0020column\u0020count\nPASS\u0020if\u0020\u0020the\u0020column\u0020count\u0020equal\u0020the\u0020array\u0020count.",
+            "url": "namespaces/default.html#function_checkColumnData"
+        },                {
+            "fqsen": "\\checkItemMaxPrice\u0028\u0029",
+            "name": "checkItemMaxPrice",
+            "summary": "checkItemMaxPrice\u0020Test\nPasses\u0020in\u0020an\u0020Itemvalue\nPASS\u0020if\u0020value\u0020passed\u0020in\u0020is\u0020greater\u0020than\u0020threshold.",
+            "url": "namespaces/default.html#function_checkItemMaxPrice"
+        },                {
+            "fqsen": "\\checkItemStockPrice\u0028\u0029",
+            "name": "checkItemStockPrice",
+            "summary": "checkItemStockPrice\u0020Test\nPasses\u0020in\u0020a\u0020min\u0020stock\u0020level\u0020and\u0020a\u0020min\u0020item\u0020price\nPASS\u0020if\u0020the\u0020stock\u0020AND\u0020price\u0020are\u0020below\u0020the\u0020threshold.",
+            "url": "namespaces/default.html#function_checkItemStockPrice"
+        },                {
+            "fqsen": "\\getcolumnCount\u0028\u0029",
+            "name": "getcolumnCount",
+            "summary": "getcolumnCount\u0020Test\nPasses\u0020in\u0020a\u0020string\u0020and\u0020delimeter\u0020that\u0020is\u0020exploded\nPASS\u0020if\u0020the\u0020count\u0020is\u0020the\u0020same\u0020as\u0020the\u0020items\u0020in\u0020the\u0020string",
+            "url": "namespaces/default.html#function_getcolumnCount"
+        },                {
+            "fqsen": "\\getFileDelimeter\u0028\u0029",
+            "name": "getFileDelimeter",
+            "summary": "getFileDelimeter\u0020Test\nPasses\u0020in\u0020a\u0020string\u0020and\u0020a\u0020delimeter\u0020array\nPASS\u0020if\u0020the\u0020delimeter\u0020found\u0020matches\u0020the\u0020delimeter\u0020in\u0020the\u0020array",
+            "url": "namespaces/default.html#function_getFileDelimeter"
+        },                {
+            "fqsen": "\\getDelimeter\u0028\u0029",
+            "name": "getDelimeter",
+            "summary": "getDelimeter\u0020Test\nPasses\u0020in\u0020a\u0020string\u0020and\u0020delimter\u0020and\u0020returns\u0020the\u0020delimeter\nPASS\u0020if\u0020delimeters\u0020match",
+            "url": "namespaces/default.html#function_getDelimeter"
+        },                {
+            "fqsen": "\\formatItemPrice\u0028\u0029",
+            "name": "formatItemPrice",
+            "summary": "formatItemPrice\u0020Test\nPasses\u0020in\u0020a\u0020zero\u0020place\u0020value\nPASS\u0020if\u0020a\u00202\u0020decimal\u0020place\u0020value\u0020is\u0020returned",
+            "url": "namespaces/default.html#function_formatItemPrice"
+        },                {
+            "fqsen": "\\getGoodRows\u0028\u0029",
+            "name": "getGoodRows",
+            "summary": "getGoodRows\u0020Test\nPasses\u0020in\u0020an\u0020array\nPass\u0020if\u0020the\u0020first\u0020item\u0020matches\u0020the\u0020first\u0020item\u0020in\u0020the\u0020array\u0020passed\u0020in.",
+            "url": "namespaces/default.html#function_getGoodRows"
+        },                {
+            "fqsen": "\\getHeader\u0028\u0029",
+            "name": "getHeader",
+            "summary": "getHeader\u0020Test\nPasses\u0020in\u0020a\u0020CSV\u0020file\nPASS\u0020if\u0020return\u0020matches",
+            "url": "namespaces/default.html#function_getHeader"
+        },                {
+            "fqsen": "\\getHeaderArrayItem\u0028\u0029",
+            "name": "getHeaderArrayItem",
+            "summary": "getHeaderArrayItem\u0020Test\nPasses\u0020in\u0020a\u0020CSV\u0020file\nPASS\u0020if\u0020return\u0020matches\u0020the\u0020item\u0020specified",
+            "url": "namespaces/default.html#function_getHeaderArrayItem"
+        },                {
+            "fqsen": "\\getrowColumnCount\u0028\u0029",
+            "name": "getrowColumnCount",
+            "summary": "getrowColumnCount\u0020Test\nPasses\u0020in\u0020an\u0020array\u0020and\u0020delimeter\nPASS\u0020if\u0020the\u0020column\u0020count\u0020equals\u00206",
+            "url": "namespaces/default.html#function_getrowColumnCount"
+        },                {
+            "fqsen": "\\sanitiseItemPrice\u0028\u0029",
+            "name": "sanitiseItemPrice",
+            "summary": "sanitiseItemPrice\u0020Test\nPasses\u0020in\u0020a\u0020string\u0020containing\u0020non\u0020numeric\u0020characters\nPASS\u0020if\u0020the\u0020return\u0020bring\u0020back\u0020the\u0020numeric\u0020values\u0020including\u0020period\u0020\u0028.\u0029",
+            "url": "namespaces/default.html#function_sanitiseItemPrice"
+        },                {
+            "fqsen": "\\testFlag\u0028\u0029",
+            "name": "testFlag",
+            "summary": "testFlag\u0020Test\nPasses\u0020in\u0020a\u0020boolean\u0020value\nPASS\u0020if\u0020return\u0020is\u0020equal",
+            "url": "namespaces/default.html#function_testFlag"
+        },                {
             "fqsen": "\\",
             "name": "\\",
             "summary": "",

@@ -1,5 +1,11 @@
 <?php
 declare(strict_types = 1);
+/**
+ * testRun
+ * @author Simon Bailey <webdisk@hotmail.com>
+ * @package Test
+ */
+
 $suiteToRun = $argv[1];
 if(empty($suiteToRun)){
   exit("No Suite Specified");

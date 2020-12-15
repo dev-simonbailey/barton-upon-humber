@@ -1,8 +1,20 @@
 <?php
+declare(strict_types = 1);
+
+/**
+ * sanitisePrice.test
+ * @author Simon Bailey <webdisk@hotmail.com>
+ * @package Test
+ */
 
 USE Wren\CSV as test;
 
-// NOTE sanitiseItemPrice Test
+/**
+ * sanitiseItemPrice Test
+ * Passes in a string containing non numeric characters
+ * PASS if the return bring back the numeric values including period (.)
+ * @return string
+ */
 function sanitiseItemPrice(): string {
   $price_to_sanitise = '$4.33';
   $sanitisedPrice = new Wren\CSV\sanitisePrice;
