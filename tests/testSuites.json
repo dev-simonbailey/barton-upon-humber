@@ -40,5 +40,16 @@
       "testFlag" : [{
         "test": "testFlag"
       }]
+    }],
+  "price": [{
+    "checkMaxPrice" : [{
+      "test": "checkItemMaxPrice"
+    }],
+    "formatPrice": [{
+      "test": "formatItemPrice"
+    }],
+    "sanitiseprice":[{
+      "test": "sanitiseItemPrice"
     }]
+  }]
 }

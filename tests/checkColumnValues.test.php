@@ -8,7 +8,7 @@ function checkColumnData(): string {
   $rowColumnCount = count($csv);
   $columnCount = 6;
   $thisRowColumnCheck = new test\checkColumnValues();
-  $result = $thisRowColumnCheck->checkColumnData( $csv, $rowColumnCount, $columnCount )
+  $result = $thisRowColumnCheck->checkColumnData( $csv, $rowColumnCount, $columnCount );
   if( $result ) {
     return "checkColumnData: Test Passed";
   } else {

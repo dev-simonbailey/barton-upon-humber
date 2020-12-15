@@ -19,7 +19,7 @@ class checkMaxPrice implements checkMaxPriceInterface {
    * Max Item Price Allowed
    * @var integer
    */
-  CONST MAXPRICE = 1000;
+  CONST MAXPRICE = 1000.00;
 
   /**
    * Do Nothing
@@ -40,6 +40,7 @@ class checkMaxPrice implements checkMaxPriceInterface {
    * @return bool
    */
   public function checkItemMaxPrice( string $item ): bool {
+
     if(floatval($item) >= self::MAXPRICE){
       return true;
     } else {

@@ -4,7 +4,7 @@ USE Wren\CSV as test;
 
 // NOTE: testFlag test
 function testFlag(): string {
-  $state = true
+  $state = true;
   $isTest = new test\testFlag( true );
   if( $isTest->getTestFlag() ) {
     return "testFlag: Test Passed";
