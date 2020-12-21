@@ -1,0 +1,487 @@
+Hannah 07464 482376
+
+
+Feedback
+
+********************************************************************************
+********************************************************************************
+********************************************************************************
+
+Too much abstraction in tech test.
+file input could be argv
+Nested conditional statements
+Index page docblock missing
+
+
+
+Face-to-Face Interview – Wren Kitchens – PHP Development Manager
+
+I am pleased to confirm a Face-to-Face Interview on Thursday 17th December 2020 at 3pm.
+
+********************************************************************************
+********************************************************************************
+********************************************************************************
+
+You will be meeting Craig Douglas – IT Director - https://www.linkedin.com/in/craig-douglas-62188350/
+and Stephen Hodges – Head of Software Development - https://www.linkedin.com/in/stehodges/
+
+********************************************************************************
+********************************************************************************
+********************************************************************************
+
+Craig and Stephen will want to discuss both your technical abilities and your management / leadership skills.
+I would be prepared to discuss your experiences as a developer with PHP and surrounding technologies
+along with how you have used them in different projects throughout your career.
+
+** PHP, MVC, Magento, PHPDocumentor
+** Adidas HSE Training / Moodle
+** British Airways - baggage handling system T5
+** THAW - Scratch built Middleware handling 5Million+ Skus
+
+********************************************************************************
+********************************************************************************
+********************************************************************************
+
+Your technical test will also be discussed so please be prepared to talk about
+your process and how you found it.
+
+** Ironically very close to a recent project - slightly ambiguous conditional Stack
+** Deliberate errors found?
+
+********************************************************************************
+********************************************************************************
+********************************************************************************
+
+I would also have some experiences from your
+time managing teams, leading junior developers and guiding the focus of a wider team.
+
+** ITM base team 12, ramp up outsource and offshore up to 212
+** Parcelpet - Apprentice, initial guidance
+** DT - Scratch built team 3 mids, 4 juniors.
+
+********************************************************************************
+********************************************************************************
+********************************************************************************
+
+They will also want to know more about your desire to succeed within Wren Kitchens.
+They will be particularly interested in your how your career experiences, personality and
+interest in the company combine, due to the nature of the role.
+
+** Wide range or experiences of projects and technologies
+** Looking for a forever company that will allow forward progression
+** I have an easy going personality that allows people I have a responsibility for to perform
+** I don't believe in empire building or creating single points of failure
+** Do we have to create a new anacronym WAG (Wren, Amazon, Google) instead of FANG (Facebook, Amazon, Netflix, Google)
+
+********************************************************************************
+********************************************************************************
+********************************************************************************
+
+** Roadmap:
+            Day 1:    Previously committed, early March. trip to barton
+                      domain knowledge, All aspects of the business elements
+                      using BU tech teams, Augmented teams based on cross training.
+            Month 1:
+            Month 3:
+            Month 6:  Building core team
+            Month 9
+            Month 12:
+
+** What opportunities exist going forward?
+
+** Where do you see me in 5 years, given I hit metrics?
+The opportunity to make it their own and drive the focus of the business forward.
+Tie in with Uni of Manchester for CS grads.
+
+
+
+** Is Manchester destined to be a satelite or stand-alone?
+
+The interview will be held at:
+Peter House
+Oxford Street
+Manchester
+M1 5AN
+
+********************************************************************************
+********************************************************************************
+********************************************************************************
+
+History
+Wren Kitchens was founded in 2009. The management team behind Wren traded for 10 years in the
+United States before the business was sold and the team moved back to the United Kingdom.
+
+The company employs over 4,000 people and is one of the largest employers in the Humber region,
+and was in 2019 named Retail Employer of the Year by jobs website Indeed. In 2016,
+the firm reported record turnover growth as sales surged past £338 million.
+This also grew in 2017, with reported revenue of £406 million.
+
+In 2019, Wren reported a new record turnover of £490.1 million for the financial
+year ending 31 December 2018, an increase of 20.7%,
+and a pre-tax profit of £37.1 million, up 124% year-on-year.
+The company said it believed there was a significant opportunity for
+further growth in the UK and beyond.
+
+********************************************************************************
+********************************************************************************
+********************************************************************************
+
+Manufacturing
+Until December 2013, the headquarters were in Howden, in the East Riding of Yorkshire,
+United Kingdom, where it still operates a factory.
+Wren manufactures all of its kitchen units in its own production plants in Scunthorpe,
+Howden and Barton-upon-Humber.
+
+The 180 acre Barton-upon-Humber site was acquired in August 2013 from Kimberly-Clark.
+In January 2019, Wren Kitchens signed up for a 150,000 sq ft warehouse at the Humber Enterprise Park, near Hull.
+
+Wren has been awarded FIRA International Gold Certification by The Furniture Industry Research Association,
+the recognised quality mark for products or installation services within the furniture and kitchen industries.
+It has received the award for its products in 2014 and for its installation standards in 2017.
+In 2018, Wren introduced the world’s first 3D online kitchen planner for its customers,
+making it easier for them to choose colours and units.
+
+Wren information advisor Ryan Beecham, who raps in his spare time under the name CiVil,
+ became an unwitting YouTube star when his kitchen-based rap
+ ‘The Wren Difference’ was turned into an online advert,
+ which has been viewed more than 1.5m times and attracted national media coverage.
+
+In 2019, Wren was awarded the Made In Britain marque.
+Made In Britain brings together the best manufacturers in the UK,
+through the use of its registered collective mark, guaranteeing that members’
+products are made in Britain and comply to the highest standards.
+
+In 2019, The British Furniture Manufacturers (BFM), a trade association that
+represents the interests of the British furniture industry, welcomed Wren
+Kitchens into the association as an ‘Approved Member’.
+
+Wren offered to find jobs for up to 280 staff at Kingstown Furniture in Hull,
+which closed its doors in March 2019.
+By June 2019, over 40 former Kingstown Furniture staff had secured positions with Wren.
+It plans to open up to 18 new showrooms during the year and is currently delivering
+manufacturing more than 2,000 kitchens a week at its three production sites.
+
+In June 2019, Wren announced plans for a £120 million expansion of its manufacturing
+headquarters in Barton-upon-Humber, North Lincolnshire, almost doubling manufacturing
+output to keep up with growing consumer demand. Wren is seeking planning permission
+for a new 910,000 sq. ft. facility, which to be built behind the existing Wren factory
+on part of its 180-acre site, which has been earmarked for further development.
+The new factory will create up to 1,200 new manufacturing jobs with additional roles
+in engineering, IT, customer service and product development.
+The project, once completed, will be the single largest investment in the company’s history.
+
+********************************************************************************
+********************************************************************************
+********************************************************************************
+
+Controversy
+In 2015, Wren Kitchens was investigated by BBC Watchdog for providing customers
+with poor customer service.
+The investigation found that the company had provided partial orders to
+customers and was extremely slow to rectify issues.
+The firm responded by stating that they are heavily investing in
+improving their customer service department.
+
+In Spring 2016, the firm was one of 12 kitchen brands researched by the consumer
+association Which?.
+WrenLiving came second from last out of the 12 kitchen companies assessed.
+
+In March 2016 the firm was fined £12,000 after pleading
+guilty to breaking the Unfair Trading Regulations 2008,
+Regulation 9 and the European Communities Act 1972 Section 2(2), by misleading
+customers on kitchen pricing.
+
+********************************************************************************
+********************************************************************************
+********************************************************************************
+
+Charity work and community
+In March 2014, Wren Kitchens donated £437,080 to charities supporting victims
+of the 2013-14 United Kingdom winter floods.
+The firm has also raised money for children's cancer charity CLIC Sargent
+and Macmillan Cancer Support.
+
+Wren Kitchens said it would "match all B&Q quotes" for customers
+and had "opened vacancies" to the 400 design consultants whose jobs were at
+risk at competitor B&Q following a restructure.
+
+********************************************************************************
+********************************************************************************
+********************************************************************************
+
+Awards and achievements
+Best Kitchen Retailer – Your Home Awards 2018
+23rd – 2017 Sunday Times Top Track 250
+12th - 2018 Sunday Times Top Track 250
+3rd – 2016 fastest growing retailers, OC&C Strategy Consultants and Financo Retail Growth Index
+2nd – Indeed's 25 Top-Rated UK Workplaces: Best in the Private Sector (2018)
+1st - Indeed's 15 Top-Rated UK Workplaces: Best in the Retail Sector (2019)
+
+********************************************************************************
+********************************************************************************
+********************************************************************************
+
+Malcolm Healey:
+Malcolm Stanley Healey (born June 1944) is a British entrepreneur.
+Career
+Healey began his career in his family's paint company.
+
+In 1982 MFI Group and Healey's company, Humber Kitchens, bought Hygena a
+kitchen and furniture retail company, from Norcros who were looking to
+dissolve the company and sell the Hygena name. MFI took full control of
+Hygena in 1987, buying Healey out for £200 million.
+
+In 2009, he founded Wren Living, now known as Wren Kitchens, a kitchen
+manufacturing and retail company which as of the beginning of 2019 had 82
+showrooms across the UK, with an annual turnover in 2018 of £490 million.
+
+As of 2020, Healey's West Retail Group also owned the online electronics retailer Ebuyer.
+
+In 2019, Healey donated £250,000 to the Conservative Party two weeks after its
+leader Boris Johnson became Prime Minister.
+He has donated £560,000 to the Conservative Party since 2017.
+
+Personal Life
+Healey owns Warter Priory, a 12,000-acre estate near Pocklington.
+
+Malcolm Healey had three children.
+His daughter, Suzy, was found strangled at her country home in August 2005.
+Richard Holtby, her ex-fiance, was convicted of manslaughter and sentenced to
+eight and a half years in prison by a jury at Hull crown court in June 2006.
+
+********************************************************************************
+********************************************************************************
+********************************************************************************
+
+2020:
+
+Second year in a row voted best place to work by Indeed
+
+£120 million spent on new factory (Barton East) expected to open in 2022
+that will create 700 new jobs and increase production from 3000 to 6000 kitchens per week
+1 million sq ft (same as the nest), meaning a doubling in size
+
+Zena Quartz: additional 150,000 sq ft facility next door to existing scunthorpe factory
+£20 million invested, increases from 1000 to 3000 order per week - 300 new jobs.
+
+new Quartz storage building 100,000 sq ft, 10,000 slabs inside.
+
+new Quartz distro centres in Exeter, Basingstoke, Gateshead, Thurrock and Watford
+
+2020 launched largest UK IT centre at 20,000 sq ft £3million invested.
+9 meeting and Video Conf rooms, IT monitoring centre, 2 dedicated VR studios
+
+Dual Screen £D planner won Project of the year at the Real IT (RITA) Awards 2020
+
+Opening of the Sir Christopher Wren Conference Center, seat 50 delegates.
+
+Transport team won the 2020 business excellence award from the Motor Transport Awards
+5th award in two years
+
+£8 million invested in the fleet of 200 transport units, 50 x V30 have been upgraded to new Merc units
+helping to reduce out Co2 by 20%
+
+Car fleet switched from diesel to E/Hybrid
+
+13 custom designed Quartz trailers
+
+Bristol distro site had £4 mIllion invested.
+
+New sites at Rochester and Heathrow
+
+2 x Wren Flyer, 63 seater buses for collegues.
+
+Over 100 showrooms
+
+********************************************************************************
+********************************************************************************
+********************************************************************************
+
+Stephen Hodges:
+
+Wren Kitchens
+Total Duration: 8 yrs 5 mos
+
+Title: Head of Software Development
+Dates Employed: Aug 2019 – Present
+Employment Duration: 1 yr 5 mos
+Location: Barton upon Humber, North Lincolnshire
+
+Title: Technical Development Manager
+Dates Employed: Jul 2015 – Jul 2019
+Employment Duration: 4 yrs 1 mo
+
+Location: Barton-upon-Humber, North Lincolnshire, United Kingdom
+I lead our in-house PHP scrum teams, who are responsible for implementing a
+wide range of business requirements.
+
+Our teams develop in PHP using the Symfony (v3/4) framework, JavaScript, MySQL
+and associated technologies/data formats. We continuously integrate (using Jenkins)
+and follow a strict code review / staging / deploy strategy, whilst maintaining a
+rapid development/deployment approach.
+
+The role involves:
+
+- Developer mentoring
+- Technologies research and documentation
+- Strategic planning
+- Stakeholder liaison
+- Some "hands-on" coding
+
+Title: Lead Developer
+Dates Employed: Aug 2014 – Jun 2015
+Employment Duration: 11 mos
+Location: Barton-upon-Humber, North Lincolnshire, United Kingdom
+I lead several in-house scrum teams, responsible for implementing new systems
+(and additions/changes to existing systems) for a wide range of business needs.
+
+All new code is developed using the Symfony2 framework (PHP), JavaScript,
+MySQL and associated technologies/data formats. We continuously integrate
+(using Jenkins) and follow a strict code review / staging / deploy strategy.
+
+Projects are delivered following agile development processes. In addition to
+“hands-on” coding, the role also involves:
+
+- Developer mentoring
+- Technologies research
+- Technical documentation
+- Strategic planning
+- Liaising with stakeholders
+see less
+TitleSenior Developer
+Dates EmployedAug 2012 – Jul 2014
+Employment Duration2 yrs
+LocationBarton-upon-Humber, North Lincolnshire, United Kingdom
+I work within an in-house scrum team, responsible for implementing new systems
+(and additions/changes to existing systems) for a wide range of business needs.
+
+All new code is developed using the Symfony2 framework (PHP), JavaScript,
+MySQL and associated technologies/data formats.
+
+We continuously integrate (using Jenkins) and follow a strict code review / staging / deploy strategy.
+
+Company Name: Mediademon
+Total Duration: 7 yrs 1 mo
+Title: General Manager
+Dates Employed: Mar 2007 – Aug 2012
+Employment Duration: 5 yrs 6 mos
+Location: Kirmington
+Mediademon is a web technologies company, offering web application development,
+software development, systems/applications support and
+general hardware/software consultancy and supply.
+
+As General Manager I oversee all areas of the business whilst also providing
+hands on creative development and support skills.
+
+Title: New Media Manager
+Dates Employed: Aug 2005 – Mar 2007
+Employment Duration: 1 yr 8 mos
+Location: Kirmington
+Co-ordinate and develop a wide range of web site design / web application
+projects, including promotional/eCommerce web sites and intranet web applications
+
+********************************************************************************
+********************************************************************************
+********************************************************************************
+
+Craig Douglas:
+
+Wren Kitchens
+Total Duration: 10 yrs 2 mos
+Title: IT Director
+Dates Employed: Aug 2017 – Present
+Employment Duration: 3 yrs 5 mos
+Location: Barton-upon-Humber, North Lincolnshire, United Kingdom
+
+Title: Senior Vice President
+Dates Employed: Jun 2015 – Aug 2017
+Employment Duration: 2 yrs 3 mos
+Location: Barton Upon Humber
+
+Title: Head of IT
+Dates Employed: Mar 2014 – Jun 2015
+Employment Duration: 1 yr 4 mos
+Location: Barton upon Humber
+
+Title: Development Manager
+Dates Employed: Nov 2010 – Mar 2014
+Employment Duration: 3 yrs 5 mos
+Location: Howden
+Currently managing Wren Software Development to improve our infrastructure
+and support systems to cater for the business' rapid growth of products and
+physical branches. This includes further re-writes and migrations, new features,
+entire new systems and better integration with 3rd parties and 3rd party
+solutions such as our Manufacturing ERP system.
+
+Previously:
+Designed and led a team to re-write our nation-wide POS sales system developed
+on Symfony 2 framework and Doctrine 2 ORM. This involved data migration
+from shared legacy MySQL 4.0, 4.1 and 5.0 databases to MySQL 5.5 as well
+as data conversion from various different formats into a consistent, optimised
+schema and structure.
+
+Improved and maintained our interface and order flow into our 3rd party ERP
+system and kept all our critical systems running to ensure orders are
+fulfilled correctly and run smoothly through the warehouse system.
+
+John Leggott College
+Technology for Learning Developer / Software Developer
+Company Name: John Leggott College
+Dates Employed: Mar 2009 – Nov 2010
+Employment Duration: 1 yr 9 mos
+Location: Scunthorpe
+Key achievements:
+
+Migrated the college's Virtual Learning Environment (VLE) from Blackboard to
+Moodle including setting up Moodle server, configuring for Single Sign On (SSO)
+using NTLM and LDAP with the College's established Active Directory setup.
+Setting up courses, migrating existing course material, training teachers and
+support staff to use the new system and encouraged a community/social approach
+to encourage use within the new system. The migration was an overwhelming success,
+with more than double the use amongst students than the previous established VLE.
+
+Setup a video encoding server to aid with compatibility and efficiency with
+delivering multimedia content to students optimised for mobile devices, yet
+simple for teachers to upload new videos in any format.
+
+Migrated the college website over from its previous unmaintainable ASP setup,
+to a more accessible CMS system using Joomla. The new design was implemented to
+a branding guide that the college had recently introduced and provided a great
+new look and feel for the college while enabling support staff to easily update
+their particular sections of the website. The website has since had a few tweeks
+to navigation but is largely still the same.
+
+Delivered several guest-talks, presentations and demos at regional user
+group forums including IT Managers (Higher Ed), TFL groups and Moodle User Groups.
+These included topics such as Green IT, change management and media delivery.
+
+RTK Instruments Ltd
+Software Developer
+Company Name: RTK Instruments Ltd
+Dates Employed: Jul 2005 – Mar 2009
+Employment Duration: 3 yrs 9 mos
+Location: Knaresborough
+As the sole computer software developer at RTK Instruments, I established a
+development environment with the company and was involved in new software products
+throughout the whole product lifecycle including specification, design, development,
+implementation, packaging and support. I was also responsible for implementing
+3rd-party bespoke SCADA-based alarm management systems for clients.
+
+One key client SCADA based installation project, for which I designed the
+monitoring system, was a £400k project for a petro-chemical site involving
+Dual-redundant servers, retrieving alarm events from 7 sets of dual-redundant
+PLCs for display/control by 7 multiple-redundent control room computers with no
+single point of failure.
+
+The two key software products I developed from start to finish were:
+
+Alarm Management System client-server based system developed in Python using
+ wxWidgets GUI toolkit and MySQL database displaying/organising critical/warning/info
+ alarms with millisecond timestamp resolution collected from RS485 network of PLC units.
+
+The other key system was a visual configuration tool to allow fine-grained settings
+on various proprietary PLC units. Developed in Python using tkinter GUI toolkit and
+communicated with the PLC via serial communication over USB (serial port emulator).
+The configuration tool proved so intuitive and user focussed that it evolved to
+include other related tools including Sales Quotation, Production step-by-step guides
+(PCB components, jumper settings etc) and diagnostics.
